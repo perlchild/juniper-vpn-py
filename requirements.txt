@@ -2,5 +2,6 @@
 mechanize==0.3.6
 netifaces==0.10.9
 pycurl==7.43.0.4
-pyasn1-modules==0.2.1
+pyasn1-modules==0.2.8
 urlgrabber==4.1.0
+
